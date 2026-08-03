@@ -1,5 +1,7 @@
 # the-ting-goes
-A simple joke command made in less than 15 minutes
+A simple joke Bash Script
+
+# Screenshots
 
 ![](screenshots/screenshot1.png)
 
